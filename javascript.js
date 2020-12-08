@@ -5,4 +5,4 @@ if (c == true) {
     alert('Selamat Berbelanja');
 } else {
     alert('No Problem');
-}
+} 
